@@ -1,3 +1,4 @@
+// Layout component with conditional header rendering
 import { Outlet, useLocation } from 'react-router-dom'
 import Header from './Header'
 
