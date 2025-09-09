@@ -1,3 +1,4 @@
+// Home page component with categories and popular
 import { useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
 
