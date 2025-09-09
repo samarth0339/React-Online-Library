@@ -7,28 +7,34 @@ Online Library System built with React and Vite. Browse, search, view details, a
 - npm 9+
 
 ## Installation
+
 1) Install dependencies:
+```bash
+cd D:\React-Online-Library\React-Online-Library
+
+2) Install dependencies:
 ```bash
 npm install
 ```
 
-2) Start the development server:
+3) Start the development server:
 ```bash
 npm run dev
 ```
 Then open the URL printed in the terminal (usually `http://localhost:5173`).
 
-3) Build for production:
+4) Build for production:
 ```bash
 npm run build
 ```
 
-4) Preview the production build:
+5) Preview the production build:
 ```bash
 npm run preview
 ```
 
 ## Scripts
+- `cd D:\React-Online-Library\React-Online-Library`: navigate to project folder
 - `npm run dev`: start dev server
 - `npm run build`: build for production
 - `npm run preview`: preview production build
