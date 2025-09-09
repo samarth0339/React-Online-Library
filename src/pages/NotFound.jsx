@@ -1,3 +1,4 @@
+// 404 Not Found page component
 import { Link, useLocation } from 'react-router-dom'
 
 export default function NotFound() {
