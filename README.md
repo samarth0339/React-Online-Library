@@ -1,6 +1,6 @@
 # Online Library (React + Vite)
 
-Online Library System built with React and Vite. Browse, search, view details, and add books using Redux Toolkit. Includes Home, Browse Books, Book Details, Add Book, and a 404 page. Styled with Tailwind CSS.
+Online Library System built with React and Vite. Browse, search, view details, and add books using Redux Toolkit. Includes Home, Browse Books, Book Details, Add Book, and a 404 page. Styled with Tailwind CSS..
 
 ## Prerequisites
 - Node.js 18+ (recommend LTS)
