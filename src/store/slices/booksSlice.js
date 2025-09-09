@@ -1,3 +1,4 @@
+// Redux slice for managing books state
 import { createSlice, nanoid } from '@reduxjs/toolkit'
 
 const initialBooks = [
