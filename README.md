@@ -57,6 +57,5 @@ npm run preview
 
 You can view the source code and full commit history for this project on GitHub:
 
-[https://github.com/YOUR_USERNAME/React-Online-Library.git](https://github.com/YOUR_USERNAME/React-Online-Library.git)
+[hhttps://github.com/samarth0339/React-Online-Library](https://github.com/samarth0339/React-Online-Library)
 
-*Note: Replace YOUR_USERNAME with your actual GitHub username*
