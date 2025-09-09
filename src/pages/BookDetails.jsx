@@ -1,3 +1,4 @@
+// Book details page with dynamic routing
 import { useParams, Link } from 'react-router-dom'
 import { useSelector } from 'react-redux'
 
