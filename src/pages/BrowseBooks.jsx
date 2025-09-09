@@ -1,3 +1,4 @@
+// Browse books page with filtering and search functionality
 import { useMemo, useState } from 'react'
 import { useParams, Link, useNavigate } from 'react-router-dom'
 import { useSelector } from 'react-redux'
